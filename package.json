@@ -19,8 +19,6 @@
   },
   "homepage": "https://github.com/Anujg9778/DynamicWeatherApp#readme",
   "dependencies": {
-    "requests": "^0.3.0",
-    "http" : "^7.5.4",
-    "fs" : "^7.5.4"
+    "requests": "^0.3.0"
   }
 }
