@@ -1,0 +1,14 @@
+{
+  "name": "weather_appbynodejs",
+  "version": "1.0.0",
+  "description": "Dynamic Weather App by Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anubhav Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
