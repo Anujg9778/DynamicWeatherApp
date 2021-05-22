@@ -4,11 +4,23 @@
   "description": "Dynamic Weather App by Nodejs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anujg9778/DynamicWeatherApp.git"
+  },
+  "keywords": [],
   "author": "Anubhav Gupta",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anujg9778/DynamicWeatherApp/issues"
+  },
+  "homepage": "https://github.com/Anujg9778/DynamicWeatherApp#readme",
   "dependencies": {
-    "requests": "^0.3.0"
+    "requests": "^0.3.0",
+    "http" : "^7.5.4",
+    "fs" : "^7.5.4"
   }
 }
